@@ -1,0 +1,17 @@
+<AGS145_5in54_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/gun/AGS145_5in54_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/gun/AGS145_5in54_dead_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/gun/AGS145_5in54_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/gun/default_ao.dds	</Texture>
+	</property>
+</AGS145_5in54_dead.mfm>
