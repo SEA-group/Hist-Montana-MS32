@@ -75,7 +75,7 @@
 			<primitive>	Radar_Mk27Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/radar/ARS017_Radar_CXAM_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

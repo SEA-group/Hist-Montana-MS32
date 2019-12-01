@@ -110,7 +110,7 @@
 			<primitive>	MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/ship/ASB017_Montana.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -124,7 +124,7 @@
 			<primitive>	MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/ship/ASB017_Montana_Deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -138,7 +138,7 @@
 			<primitive>	MidBack_crack_MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/ship/ASB017_Montana.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -166,7 +166,7 @@
 			<primitive>	MidBack_crack_MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/ship/ASB017_Montana_Deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -194,7 +194,7 @@
 			<primitive>	MidBack_crack_SternShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/ship/ASB017_Montana.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -222,7 +222,7 @@
 			<primitive>	MidBack_patch_SternShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/ship/ASB017_Montana.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -236,7 +236,7 @@
 			<primitive>	MidBack_patch_Stern_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/ship/ASB017_Montana.mfm	</mfm>
 				</material>
 			</primitiveGroup>

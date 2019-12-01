@@ -29,7 +29,7 @@
 			<primitive>	Turret_dead_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/gun/AGS145_5in54_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
