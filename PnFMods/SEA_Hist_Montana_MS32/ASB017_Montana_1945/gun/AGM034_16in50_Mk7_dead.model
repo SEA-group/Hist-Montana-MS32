@@ -1,6 +1,6 @@
 <AGM034_16in50_Mk7_dead.model>
 	<extent>	6.0000	</extent>
-	<parent>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/gun/AGM034_16in50_Mk7_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Montana_MS32/ASB017_Montana_1945/gun/lods/AGM034_16in50_Mk7_dead_lod1	</parent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
 	<visibilityBox>
